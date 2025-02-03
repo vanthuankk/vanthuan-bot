@@ -1,0 +1,77 @@
+{
+  "ip": "::ffff:42.118.51.18",
+  "chatHistory": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Rất vui được gặp cậu! 💖  Có gì cần Naruto này giúp không? 🌞💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Chào cậu!  🌞  Rất vui được gặp cậu! 💖  Có gì cần Naruto này giúp không? ✨\n"
+    },
+    {
+      "role": "user",
+      "content": "Naruto"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 🌞 Tớ là Naruto! 💖  Rất vui được làm quen với cậu! ✨  Cần tớ giúp gì không? 💥  Tớ sẵn sàng giúp đỡ nè! 💖\n"
+    },
+    {
+      "role": "user",
+      "content": "Cần tiền"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn!  Cần tiền hả?  💖  Đừng lo, mọi chuyện sẽ ổn thôi! 💥 Cùng nhau nghĩ cách nhé! 🌞  Mình luôn ở đây giúp cậu! ✨\n"
+    },
+    {
+      "role": "user",
+      "content": "Mày đã có tiền chưa"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! Chưa có đâu! Đang luyện tập chăm chỉ để kiếm tiền đây! 💪🌞  Cố gắng lên nào! 💖💥  Tin là mình sẽ làm được! ✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Hôm nay cậu thế nào? 🌞💖  Có gì vui không kể tớ nghe với! ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋💖  Rất vui được gặp cậu! 🌞  Có gì cần Naruto này giúp không? ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Hôm nay cậu thế nào?  🌞💖  Có gì vui không? ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Hôm nay có gì vui không? 🌞💖💥\n"
+    }
+  ]
+}

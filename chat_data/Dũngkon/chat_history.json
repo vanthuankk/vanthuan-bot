@@ -1,0 +1,21 @@
+{
+  "ip": "::ffff:1.54.2.143",
+  "chatHistory": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Dũngkon! 👋  Hôm nay cậu thế nào?  🌞💖  Mong là mọi thứ đều tốt đẹp nhé! ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Dũngkon! 👋  Hân hạnh được gặp cậu! 🌞💖💥  Có gì cần Naruto này giúp hả? ✨\n"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "ip": "::ffff:42.117.49.110",
+  "chatHistory": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Chào cậu nha! 💖  Có gì vui hông? 🌞\n"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài! 👋  Chào cậu!  🌞  Rất vui được gặp cậu! 💖  Có gì cần tớ giúp không? ✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài! 👋  Chào cậu!  🌞  Rất vui được gặp cậu! 💖  Có gì cần Naruto này giúp không? 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài! 👋  Chào cậu!  🌞  Rất vui được làm quen! 💖  Có gì cần Naruto này giúp không? ✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài! 👋  Chào cậu!  🌞  Rất vui được làm quen! 💖  Có gì cần Naruto này giúp không? ✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài! 👋  Hello! 🌞  Rất vui được gặp cậu! 💖  Có gì cần Naruto này giúp không? ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu! 💖  Có chuyện gì không? 🌞\n"
+    },
+    {
+      "role": "user",
+      "content": "hello cu"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài nè! 👋🌞  Khỏe không cu? 💖  Có gì vui kể nghe coi! 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello cu"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài nè! 👋🌞  Khỏe không cu? 💖  Có gì vui kể nghe coi! 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello cu"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài nè! 👋🌞  Khỏe không cu? 💖  Có gì vui hông? ✨  Kể nghe coi! 💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hello cu"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài nè! 👋🌞  Khỏe không cu? 💖  Chuyện gì vui kể nghe coi! 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello cu"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài nè! 👋🌞  Khỏe không vậy? 💖  Có gì vui kể nghe coi! 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello cu"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài nè! 👋  Hôm nay khỏe không?  🌞💖  Có gì vui kể tớ nghe với! 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hello cu"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tài nè! 👋🌞  Khỏe không cu? 💖  Chuyện trò gì vui nào! 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu! 💖  Có chuyện gì thế? 🌞\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu! 💖  Có chuyện gì vậy? 🌞\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Cậu khỏe không?  🌞💖  Có gì vui không kể tớ nghe với! 💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu! 💖  Có gì cần Naruto này giúp không? 🌞💥✨\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu! 💖  Có chuyện gì không? 🌞\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Chào cậu!  🌞  Có gì vui không vậy? 💖\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu! 🌞💖  Có chuyện gì không? ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu!  🌞💖  Có gì cần tớ giúp không? ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! Tn! 👋  Rất vui được gặp cậu! 🌞💖  Có gì cần Naruto này giúp không? ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345! 👋  Rất vui được gặp cậu! 🌞💖  Có chuyện gì thế? ✨💥\n"
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Yo! 12345!  👋🌞  Có gì hot thế? 💖💥\n"
+    }
+  ]
+}
